@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on snackoil
+- 🌱 I’m currently learning abotu snackoil
+- ⚡ Fun fact: snackoil is just a typo
+- 😄 Pronouns: snack/oil
 
 <!--
 **snackoil/snackoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
