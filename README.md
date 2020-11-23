@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, do you oil your snacks? 👋
 - 🔭 I’m currently working on snackoil memes & co.
 - ⚡ Fun fact: snackoil is just a typo
 - 😄 Pronouns: snack/oil
