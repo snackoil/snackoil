@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on snackoil
-- 🌱 I’m currently learning abotu snackoil
+- 🔭 I’m currently working on snackoil memes & co.
 - ⚡ Fun fact: snackoil is just a typo
 - 😄 Pronouns: snack/oil
 
