@@ -3,7 +3,7 @@
 - ⚡ Fun fact: snackoil is just a typo
 - 😄 Pronouns: snack/oil
 
-[Main Account]("github.com/cyberpanda")
+[Main Account](https://github.com/cyberpanda)
 
 <!--
 **snackoil/snackoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
